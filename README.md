@@ -6,7 +6,7 @@
 # Loops-C-Program
 A beginner-friendly collection of C programs to learn loops (for, while, do-while) with examples, patterns, and step-by-step understanding.
 
-These are my own programs, which I wrote during my first year of engineering. 
+# These are my own programs, which I wrote during my first year of engineering. 
 
 It covers:
 - for loops
