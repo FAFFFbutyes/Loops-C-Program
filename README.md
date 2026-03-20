@@ -25,4 +25,6 @@ It covers:
 - Pattern generation
 - Efficient looping techniques
 
+Make sure to follow C topic-wise for better understanding. 
+
 I hope this helps :) 
